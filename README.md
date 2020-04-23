@@ -9,15 +9,12 @@
 │   ├── i3/
 │   │   ├── config             # i3 配置文件
 │   │   ├── wallpaper/         # 壁纸目录
-│	│   │   ├── cmd.sh         # 执行壁纸脚本
-│	│   │   ├── pictures/      # 壁纸图片文件夹
-│   ├── fcitx/                 # 输入法配置文件
-
-
-
-
-
-
+│	│   │   ├── cmd.sh     # 执行壁纸脚本
+│	│   │   ├── pictures/  # 壁纸图片文件夹
+│   ├── fcitx/                 # 输入法配置目录
+│   │   ├── config             # fcitx 配置文件
+│   │   ├── skin/              # fcitx 皮肤
+│   │   ├── pinyin/            # fcitx 词典
 
 ```
 
