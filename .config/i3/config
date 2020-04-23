@@ -1,0 +1,106 @@
+# 键    -  意义
+# $mod  -  win
+# $alt  -  alt
+# $ctrl - Ctrl
+# Escape - ESC
+# Return - return 
+# Space  - space
+# Shift - Shift
+#
+#
+# 程序启动时加载
+# exec or exec_always
+
+# 主键
+set $mod Mod4
+set $alt Mod1
+set $ctrl Control
+
+# 关闭焦点所在程序
+bindsym $alt+Escape   kill
+
+# 移动程序
+bindsym $mod+h move left
+bindsym $mod+j move down
+bindsym $mod+k move up
+bindsym $mod+l move right
+
+# 改变浮动状态
+bindsym $mod+space floating toggle
+
+# 去除i3的标题栏
+new_window none
+new_float normal
+hide_edge_borders both
+
+
+# 重启 i3
+bindsym $mod+Shift+e exit
+
+
+# 终端
+bindsym $mod+Return exec i3-sensible-terminal
+
+# 浏览器
+#bindsym $mod+p exec chromium
+
+# rofi 配置
+# rofi 是一款程序启动器
+# 可以启动程序和更换程序
+bindsym $mod+i  exec  rofi -show window
+bindsym $mod+o  exec  rofi -show run
+bindsym $mod+p  exec  rofi -show drun
+
+# 壁纸设置
+exec cd ~/.config/i3/wallpaper && ./cmd.sh
+
+
+# 设置透明化
+exec_always compton -b
+
+# 设置文件管理器
+bindsym $mod+e exec thunar
+
+# markdown 编辑器
+# bindsym $mod+u   exec typora
+
+# 全屏/取消全屏
+bindsym $mod+Escape fullscreen toggle
+
+# 配置工作区
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+# 切换工作区
+bindsym $alt+Tab workspace next
+
+bindsym $mod+1 workspace number $ws1
+bindsym $mod+2 workspace number $ws2
+bindsym $mod+3 workspace number $ws3
+bindsym $mod+4 workspace number $ws4
+bindsym $mod+5 workspace number $ws5
+bindsym $mod+6 workspace number $ws6
+bindsym $mod+7 workspace number $ws7
+bindsym $mod+8 workspace number $ws8
+bindsym $mod+9 workspace number $ws9
+bindsym $mod+0 workspace number $ws10
+
+# 将焦点所在程序移动到对应工作区
+bindsym $mod+Shift+1 move container to workspace number $ws1
+bindsym $mod+Shift+2 move container to workspace number $ws2
+bindsym $mod+Shift+3 move container to workspace number $ws3
+bindsym $mod+Shift+4 move container to workspace number $ws4
+bindsym $mod+Shift+5 move container to workspace number $ws5
+bindsym $mod+Shift+6 move container to workspace number $ws6
+bindsym $mod+Shift+7 move container to workspace number $ws7
+bindsym $mod+Shift+8 move container to workspace number $ws8
+bindsym $mod+Shift+9 move container to workspace number $ws9
+bindsym $mod+Shift+0 move container to workspace number $ws10
