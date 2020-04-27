@@ -2,6 +2,7 @@
 
 ```
 ~
+├── my-ublock-static-filters   # chromium extension ublock 配置
 ├── .zshrc                     # zsh 配置文件
 ├── .xinitrc                   # x 窗口启动文件
 ├── .vimrc                     # vim 配置文件
