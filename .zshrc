@@ -21,3 +21,4 @@ alias getip="curl -i httpbin.org/get"
 alias install='sudo pacman -S'
 alias remove='sudo pacman -Rs'
 alias upgrade='sudo pacman -Syu'
+alias push='./$HOME/.config/git-push.sh'
