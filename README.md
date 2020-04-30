@@ -6,6 +6,9 @@
 ├── .zshrc                     # zsh 配置文件
 ├── .xinitrc                   # x 窗口启动文件
 ├── .vimrc                     # vim 配置文件
+├── git-push.sh                # git push script
+├── keyboard-backup.pro        # 键盘配置文件             
+│
 ├── .config/                   
 │   ├── i3/
 │   │   ├── config             # i3 配置文件
