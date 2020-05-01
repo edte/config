@@ -16,6 +16,9 @@
 | 暴力猴                                | 一个开源的用户脚本管理器             | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) |
 | Chrono Download Manager               | 下载管理器, 支持资源嗅探             | [![Chrome](https://img2020.cnblogs.com/blog/1823594/202003/1823594-20200323193124037-1221339147.png)](https://crx.dam.io/ext/mciiogijehkdemklbdcbfkefimifhecn.html) |
 | Markdown Viewer                       | 一个 markdown 渲染器                 | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) |
+| HTTPS Everywhere                      | 自动使用 HTTPS 连接访问站点          | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
+| Proxy SwitchyOmega                    | 轻松快捷地管理和切换多个代理设置     | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
+| Smart TOC                             | 以 html 的标题展示目录               | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
 
 
 
@@ -53,7 +56,8 @@
 | Vimium                                               | 使用 vim 模式操作 Chrome                                     | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) |
 | uBlock Origin(my-ublock-static-filters 是其配置文件) | 自定义广告屏蔽扩展                                           | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN) |
 | Todo list manager                                    | 一款可离线使用的任务清单                                     | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/todo-list-manager/lfhdphnciighhnfcdfafblgfnndchkea?hl=zh-CN) |
-|                                                      |                                                              | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
+| Lightweight Notepad                                  | 一个简单的笔记应用                                           | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
+| OneTab Plus                                          | 整理当前标签，便于开机后恢复标签页                           | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]() |
 
 
 
@@ -84,6 +88,7 @@
 | 自动展开全文                                            |      |      |
 | 谷歌搜索：新建标签页打开链接                            |      |      |
 | AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列 |      |      |
+|                                                         |      |      |
 
 
 
