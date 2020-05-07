@@ -12,7 +12,7 @@
 | EditThisCookie                        | 一个 cookie 管理器                   | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-CN) |
 | Neater Bookmarks                      | 一款书签管理器                       | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi?hl=zh-CN) |
 | SimpleExtManager                      | 扩展管理器                           | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk) |
-| 沙拉查词-聚合词典划词翻译             | 一款划词翻译应用                     | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=zh-CN) |
+| 划词翻译                              | 一款简易的划词翻译应用               | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)]([https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN](https://chrome.google.com/webstore/detail/划词翻译/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN)) |
 | 暴力猴                                | 一个开源的用户脚本管理器             | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) |
 | Chrono Download Manager               | 下载管理器, 支持资源嗅探             | [![Chrome](https://img2020.cnblogs.com/blog/1823594/202003/1823594-20200323193124037-1221339147.png)](https://crx.dam.io/ext/mciiogijehkdemklbdcbfkefimifhecn.html) |
 | Markdown Viewer                       | 一个 markdown 渲染器                 | [![Chrome](https://tva1.sinaimg.cn/large/7a6a15d5gy1frpw0218hnj200g00gt8h.jpg)](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) |
@@ -102,3 +102,14 @@
 | Google 翻译    | gt     | https://translate.google.cn/?source=osdd#auto                |
 | 知乎           | zh     | https://www.zhihu.com/search?type=content&q=%s               |
 | codeif         | codeif | https://unbug.github.io/codelf/#%S                           |
+
+# 扩展快捷键设置
+
+|        扩展名         |         功能         |    快捷键    |
+| :-------------------: | :------------------: | :----------: |
+|   Chrono下载管理器    |    激活该扩展程序    |    Ctrl+J    |
+| Chrome Better History |    激活该扩展程序    |    Ctrl+H    |
+|   Neater Bookmarks    |    激活该扩展程序    | Ctrl+Shift+O |
+|       划词翻译        | 翻译网页中选中的文本 | Ctrl+Shfit+Y |
+
+
