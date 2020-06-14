@@ -76,9 +76,9 @@ set history=1000      " Vim 需要记住多少次历史操作。
 set autoread         " 打开文件监视。如果在编辑过程中文件发生外部改变（比如被别的编辑器编辑了），就会发出提示。
 set autowrite        " 自动保存
 
-"set listchars=tab:»■,trail:■           "如果行尾有多余的空格（包括 Tab 键），该配置将让这些空格显示成可见的小方块。
+set listchars=tab:»■,trail:■           "如果行尾有多余的空格（包括 Tab 键），该配置将让这些空格显示成可见的小方块。
 set list                   " 上同
-set listchars=tab:>>,trail:.              " 将 tab 键和多余的空格显示出来
+"set listchars=tab:>>,trail:.              " 将 tab 键和多余的空格显示出来
 
 set mouse=a  " 支持使用鼠标
 
